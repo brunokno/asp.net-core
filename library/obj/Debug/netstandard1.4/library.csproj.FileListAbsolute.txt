@@ -1,0 +1,6 @@
+C:\projectsCore\xunit\library\bin\Debug\netstandard1.4\library.deps.json
+C:\projectsCore\xunit\library\bin\Debug\netstandard1.4\library.dll
+C:\projectsCore\xunit\library\bin\Debug\netstandard1.4\library.pdb
+C:\projectsCore\xunit\library\obj\Debug\netstandard1.4\library.AssemblyInfo.cs
+C:\projectsCore\xunit\library\obj\Debug\netstandard1.4\library.dll
+C:\projectsCore\xunit\library\obj\Debug\netstandard1.4\library.pdb

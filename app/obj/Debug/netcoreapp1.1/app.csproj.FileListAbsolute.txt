@@ -1,0 +1,10 @@
+C:\projectsCore\xunit\app\bin\Debug\netcoreapp1.1\app.deps.json
+C:\projectsCore\xunit\app\bin\Debug\netcoreapp1.1\app.runtimeconfig.json
+C:\projectsCore\xunit\app\bin\Debug\netcoreapp1.1\app.runtimeconfig.dev.json
+C:\projectsCore\xunit\app\obj\Debug\netcoreapp1.1\app.AssemblyInfo.cs
+C:\projectsCore\xunit\app\bin\Debug\netcoreapp1.1\app.dll
+C:\projectsCore\xunit\app\bin\Debug\netcoreapp1.1\app.pdb
+C:\projectsCore\xunit\app\bin\Debug\netcoreapp1.1\library.dll
+C:\projectsCore\xunit\app\bin\Debug\netcoreapp1.1\library.pdb
+C:\projectsCore\xunit\app\obj\Debug\netcoreapp1.1\app.dll
+C:\projectsCore\xunit\app\obj\Debug\netcoreapp1.1\app.pdb
